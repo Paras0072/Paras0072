@@ -41,6 +41,6 @@
 
 <br clear="both"> 
 
-<img src="https://raw.githubusercontent.com/Paras0072/Paras0072/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Paras0072/Paras0072/blob/output/snake.svg" alt="Snake animation" />
 
 ###
